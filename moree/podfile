@@ -1,0 +1,32 @@
+platform :ios, '9.0'
+
+target ‘moree’ do
+
+pod 'AFNetworking'
+
+pod 'SDWebImage'
+
+pod 'MJRefresh'
+
+pod 'Masonry'
+
+pod 'MJExtension'
+
+pod 'MBProgressHUD'
+
+pod 'IQKeyboardManager'
+
+pod 'UMCCommon'
+
+pod 'UMCSecurityPlugins'
+
+pod 'UMCAnalytics'
+
+pod 'UMCShare/Social/WeChat'
+
+pod 'UMCShare/Social/QQ'
+
+pod 'JPush'
+
+end
+
